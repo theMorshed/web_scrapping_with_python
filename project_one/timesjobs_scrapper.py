@@ -11,7 +11,7 @@ def find_jobs():
     soup = BeautifulSoup(html_file, 'lxml')
     jobs = soup.find_all('li', class_='clearfix job-bx wht-shd-bx')
 
-    for job in jobs:
+    for index, job in enumerate(jobs):
         published_date = job.find('span', class_='sim-posted').span.text
         if 'few' in published_date:
             continue
@@ -22,10 +22,11 @@ def find_jobs():
         if unfamiliar_skill in skills:
             continue
         
-        print(f'Company Name: {company_name.strip()}')
-        print(f'Skills: {skills.strip()}')
-        print(f'More Info: {job_link}\n')
-        
+        with open(f'store/{index}.txt', 'w') as fwrite:
+            fwrite.write(f'Company Name: {company_name.strip()}\n')
+            fwrite.write(f'Skills: {skills.strip()}\n')
+            fwrite.write(f'More Info: {job_link}\n')
+
 if __name__ == '__main__':
     while True:
         find_jobs()
