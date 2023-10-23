@@ -78,3 +78,83 @@ Name: It's Only the Himalayas
 Price: Â£45.17
 More info: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
 
+Name: A Light in the ...
+Price: Â£51.77
+More info: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+
+Name: Tipping the Velvet
+Price: Â£53.74
+More info: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+
+Name: Soumission
+Price: Â£50.10
+More info: https://books.toscrape.com/catalogue/soumission_998/index.html
+
+Name: Sharp Objects
+Price: Â£47.82
+More info: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+
+Name: Sapiens: A Brief History ...
+Price: Â£54.23
+More info: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+
+Name: The Requiem Red
+Price: Â£22.65
+More info: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+
+Name: The Dirty Little Secrets ...
+Price: Â£33.34
+More info: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+
+Name: The Coming Woman: A ...
+Price: Â£17.93
+More info: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+
+Name: The Boys in the ...
+Price: Â£22.60
+More info: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+
+Name: The Black Maria
+Price: Â£52.15
+More info: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+
+Name: Starving Hearts (Triangular Trade ...
+Price: Â£13.99
+More info: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+
+Name: Shakespeare's Sonnets
+Price: Â£20.66
+More info: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+
+Name: Set Me Free
+Price: Â£17.46
+More info: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+
+Name: Scott Pilgrim's Precious Little ...
+Price: Â£52.29
+More info: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+
+Name: Rip it Up and ...
+Price: Â£35.02
+More info: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+
+Name: Our Band Could Be ...
+Price: Â£57.25
+More info: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+
+Name: Olio
+Price: Â£23.88
+More info: https://books.toscrape.com/catalogue/olio_984/index.html
+
+Name: Mesaerion: The Best Science ...
+Price: Â£37.59
+More info: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+
+Name: Libertarianism for Beginners
+Price: Â£51.33
+More info: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+
+Name: It's Only the Himalayas
+Price: Â£45.17
+More info: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+

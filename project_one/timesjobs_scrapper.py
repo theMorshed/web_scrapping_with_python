@@ -13,8 +13,10 @@ def find_jobs():
 
     for index, job in enumerate(jobs):
         published_date = job.find('span', class_='sim-posted').span.text
+        
         if 'few' in published_date:
             continue
+        
         company_name = job.find('h3', class_='joblist-comp-name').text.replace(' ', '')
         skills = job.find('span', class_='srp-skills').text.replace(' ', '')
         job_link = job.header.h2.a['href']
